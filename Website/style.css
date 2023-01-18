@@ -1,0 +1,45 @@
+* {
+    /* background-color: grey; */
+    background-color: rgb(29, 29, 29);
+}
+
+hr.hr1 { 
+    height:5px;
+    width: auto;
+    border: -1000rem;
+    border-color: pink;
+    background-color: rgb(124, 51, 161);
+}
+
+div.h1Div {
+    display: flex;
+    justify-content: center;
+    color: purple;
+}
+
+.imgDiv {
+    display:flex;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+#btn1 {
+    width: 100px;
+    background-color: rgba(128, 0, 128, 40%);
+}
+
+#btn1:hover {
+    background-color: rgba(128, 0, 128, 80%);
+    height: 25px;
+}
+
+#bodyId {
+    text-align: center;    
+    color: white;
+}
